@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Ava valentine website",
+			"path": "."
+		},
+		{
+			"name": "kado-main",
+			"path": "../kado-main/kado-main"
+		},
+		{
+			"name": "FlowersGift-main",
+			"path": "../FlowersGift-main/FlowersGift-main"
+		}
+	],
+	"settings": {}
+}
